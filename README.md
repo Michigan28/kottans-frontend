@@ -28,3 +28,13 @@ To automatically apply changes to a file, we need to run the patch command on th
 
 The git directory acts as a database for all the changes tracked in Git and the working tree acts as a sandbox where we can edit the current versions of the files.
 
+## Linux CLI, and HTTP
+
+Linux CLI tasks were not so hard as I expected. Git pull request was much harder)
+I finished tasks without issues. Got to know a lot of commands. I think in studying Linux CLI should be first and then GIT.
+![Quiz 1](task_linux_cli/Quiz_1.jpg)
+![Quiz 2](task_linux_cli/Quiz_2.jpg)
+![Quiz 3](task_linux_cli_Quiz_3.jpg)
+![Quiz 4](task_linux_cli/Quiz_4.jpg)
+
+HTTP articles was not for beginners. Need to learn more about HTTP.
