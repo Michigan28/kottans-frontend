@@ -38,3 +38,17 @@ I finished tasks without issues. Got to know a lot of commands. I think in study
 ![Quiz 4](task_linux_cli/Quiz_4.jpg)
 
 HTTP articles was not for beginners. Need to learn more about HTTP.
+
+## Git Collaboration
+
+Links to screenshots of completed studies:
+
+On Coursera: [Managing Collaboration](GIT_Collaboration/Week4_Managing_Collaboration.jpg), [Pull request](GIT_Collaboration/Week4_Pull_request.png)
+
+On learngitbranching.js.org: [Main](GIT_Collaboration/Learninggitbranching_1_main.png), [Remote](GIT_Collaboration/Learninggitbranching_2_remote.png)
+
+I'm very glad of completion courses about GIT. Now I know how to work with it.
+
+Especially I liked this command: "git pull origin Branchname~1:Branchname".
+ Means I pull commits except the last one and I specified source Branch and destination Branch to pull.
+ 
