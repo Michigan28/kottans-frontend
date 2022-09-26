@@ -43,9 +43,9 @@ HTTP articles was not for beginners. Need to learn more about HTTP.
 
 Links to screenshots of completed studies:
 
-On Coursera: [Managing Collaboration](GIT_Collaboration/Week4_Managing_Collaboration.jpg), [Pull request](GIT_Collaboration/Week4_Pull_request.png)
+On Coursera: [Managing Collaboration](GIT%20Collaboration/Week4_Managing_Collaboration.jpg), [Pull request](GIT%20Collaboration/Week4_Pull_request.png)
 
-On learngitbranching.js.org: [Main](GIT_Collaboration/Learninggitbranching_1_main.png), [Remote](GIT_Collaboration/Learninggitbranching_2_remote.png)
+On learngitbranching.js.org: [Main](GIT%20Collaboration/Learninggitbranching_1_main.png), [Remote](GIT%20Collaboration/Learninggitbranching_2_remote.png)
 
 I'm very glad of completion courses about GIT. Now I know how to work with it.
 
