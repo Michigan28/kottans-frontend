@@ -1,6 +1,6 @@
 # kottans-frontend
 
-# GIT
+## GIT
 Practice https://learngitbranching.js.org/?locale=uk
 Learning https://www.coursera.org/learn/introduction-git-github/lecture/21kjM/rollbacks 
 Check out the following links for more information:
@@ -21,9 +21,9 @@ https://man7.org/linux/man-pages/man1/diff.1.html
 https://docs.gitlab.com/runner/install/windows.html
 
 Coursera:
-The diff tool shows all the differences between any type of file. By highlighting what’s changed, it helps us understand the changes and see how the files have been modified.
+The diff tool shows all the differences between any type of file. By highlighting what’s changed, it helps us understand the changes and see how the files have been modified.
 
-While diff is the command that generates the difference between two files, patch is the command that applies those differences to the original file.
+While diff is the command that generates the difference between two files, patch is the command that applies those differences to the original file.
 To automatically apply changes to a file, we need to run the patch command on the file that we want to modify with the diff file as input.
 
 The git directory acts as a database for all the changes tracked in Git and the working tree acts as a sandbox where we can edit the current versions of the files.
@@ -52,3 +52,17 @@ I'm very glad of completion courses about GIT. Now I know how to work with it.
 Especially I liked this command: "git pull origin Branchname~1:Branchname".
  Means I pull commits except the last one and I specified source Branch and destination Branch to pull.
  
+ ## Intro to HTML and CSS
+
+ I've completed basic courses of HTML and CSS. Here are the screenshots:
+
+ [HTML on Codecademy.com](task_html_css_intro/HTML.png)
+ 
+ [CSS on Codecademy.com](task_html_css_intro/CSS.png)
+
+[HTML on Coursera.org](task_html_css_intro/HTML_Coursera.png);
+[HTML Quiz](task_html_css_intro/HTML_test_Coursera.png)
+
+[CSS on Coursera.org](task_html_css_intro/CSS_Coursera.png)
+
+It were great and interesting courses, I've learned a lot.
